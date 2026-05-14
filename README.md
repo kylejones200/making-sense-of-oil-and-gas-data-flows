@@ -1,7 +1,7 @@
 # Making Sense of Oil and Gas Data Flows
 
-**Published:** 2025-08-19
-**Medium:** [https://medium.com/@kyle-t-jones/making-sense-of-oil-and-gas-data-flows-ded5c50e47bc](https://medium.com/@kyle-t-jones/making-sense-of-oil-and-gas-data-flows-ded5c50e47bc)
+Published: 2025-08-19
+Medium: [https://medium.com/@kyle-t-jones/making-sense-of-oil-and-gas-data-flows-ded5c50e47bc](https://medium.com/@kyle-t-jones/making-sense-of-oil-and-gas-data-flows-ded5c50e47bc)
 
 ## About
 

@@ -15,11 +15,11 @@ The oil and gas industry runs on data. From seismic surveys that identify underg
 The diagram above maps this flow. It shows how raw data from exploration, drilling, production, and downstream operations moves through an integrated architecture to support analytics and artificial intelligence. Let's walk through it.
 
 ### From Exploration to Retail
-Data starts with **seismic acquisition**. Geophysicists record subsurface reflections and store them in SEG-Y files. That information feeds into **reservoir modeling tools** like Petrel or Kingdom, which describe the geology and potential reserves.
+Data starts with seismic acquisition. Geophysicists record subsurface reflections and store them in SEG-Y files. That information feeds into reservoir modeling tools like Petrel or Kingdom, which describe the geology and potential reserves.
 
-When wells are drilled, more data arrives. **Drilling and logging systems** use standards such as WITSML and sensors like MWD and LWD. These provide information on borehole conditions, rock formations, and fluid properties.
+When wells are drilled, more data arrives. Drilling and logging systems use standards such as WITSML and sensors like MWD and LWD. These provide information on borehole conditions, rock formations, and fluid properties.
 
-Once hydrocarbons start flowing, **production systems** generate massive amounts of data. SCADA, PI historians, and IoT sensors track volumes, pressures, and equipment health. Downstream, **pipelines and terminals** rely on ILI tools, tank gauges, and flow meters to ensure safe transport and storage. **Refineries** add another layer with APC systems and laboratory data. Finally, **distribution and retail** systems bring in ERP records, scheduling data, and point-of-sale transactions.
+Once hydrocarbons start flowing, production systems generate massive amounts of data. SCADA, PI historians, and IoT sensors track volumes, pressures, and equipment health. Downstream, pipelines and terminals rely on ILI tools, tank gauges, and flow meters to ensure safe transport and storage. Refineries add another layer with APC systems and laboratory data. Finally, distribution and retail systems bring in ERP records, scheduling data, and point-of-sale transactions.
 
 At each step, the data is siloed by function, but the diagram shows how integration can break those walls.
 
