@@ -11,14 +11,7 @@ The diagram above maps this flow. It shows how raw data from exploration, drilli
 
 Data starts with seismic acquisition. Geophysicists record subsurface reflections and store them in SEG-Y files. That information feeds into reservoir modeling tools like Petrel or Kingdom, which describe the geology and potential reserves.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
